@@ -1,0 +1,1 @@
+[+] Create an external file to store results for each word
