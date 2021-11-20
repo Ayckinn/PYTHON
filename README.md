@@ -1,2 +1,2 @@
 # PYTHON
-All Python projects
+All Python projects for Linux
