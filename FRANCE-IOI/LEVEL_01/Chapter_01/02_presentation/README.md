@@ -16,7 +16,7 @@ LEVEL 01 --> CHAPTER 01 --> EXERCICE 02
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE_IOI/LEVEL_01/Chapter_01/02_presentation/result.png"
+        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE-IOI/LEVEL_01/Chapter_01/02_presentation/result.png"
         alt="DEMO"
         style="width:50%">
 </div>
