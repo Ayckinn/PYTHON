@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 02 --> EXERCICE 02
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/02_mathematiques_de_base/todo.png"
+        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE-IOI/LEVEL_01/Chapter_02/02_mathematiques_de_base/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
@@ -16,7 +16,7 @@ LEVEL 01 --> CHAPTER 02 --> EXERCICE 02
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/02_mathematiques_de_base/result.png"
+        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE-IOI/LEVEL_01/Chapter_02/02_mathematiques_de_base/result.png"
         alt="DEMO"
         style="width:50%">
 </div>

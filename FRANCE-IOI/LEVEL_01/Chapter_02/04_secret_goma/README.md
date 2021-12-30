@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 02 --> EXERCICE 04
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/04_secret_goma/todo.png"
+        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE-IOI/LEVEL_01/Chapter_02/04_secret_goma/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>

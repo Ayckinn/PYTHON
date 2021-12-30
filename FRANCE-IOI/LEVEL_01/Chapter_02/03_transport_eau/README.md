@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 02 --> EXERCICE 03
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE_IOI/LEVEL_01/Chapter_02/03_transport_eau/todo.png"
+        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE-IOI/LEVEL_01/Chapter_02/03_transport_eau/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
