@@ -7,6 +7,7 @@
     EXERCICE  : 07
     TITLE     : JEU DE DAMES
 =============================================== """
+
 for x in range(20):
     for y in range(20):
         print("OX", end = "")

@@ -7,6 +7,7 @@
     EXERCICE  : 03
     TITLE     : PLAN DE LA MONTAGNE
 =============================================== """
+
 print("Tout droit tu grimperas,")
 print("La clé tu trouveras,")
 print("Habile tu seras,")

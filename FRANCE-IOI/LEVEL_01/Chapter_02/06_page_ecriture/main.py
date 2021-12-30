@@ -7,6 +7,7 @@
     EXERCICE  : 06
     TITLE     : PAGE D'ECRITURE
 =============================================== """
+
 for _ in range(30):
     print("a_", end = "")
 print()
