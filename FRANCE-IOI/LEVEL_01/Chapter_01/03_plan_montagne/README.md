@@ -6,7 +6,7 @@ LEVEL 01 --> CHAPTER 01 --> EXERCICE 03
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/Python/blob/main/FRANCE_IOI/LEVEL_01/Chapter_01/03_plan_montagne/todo.png"
+        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE_IOI/LEVEL_01/Chapter_01/03_plan_montagne/todo.png"
         alt="DEMO"
         style="width:50%">
 </div>
@@ -16,7 +16,7 @@ LEVEL 01 --> CHAPTER 01 --> EXERCICE 03
 
 <div align="center">
     <img
-        src="https://github.com/Ayckinn/Python/blob/main/FRANCE_IOI/LEVEL_01/Chapter_01/03_plan_montagne/result.png"
+        src="https://github.com/Ayckinn/PYTHON/blob/main/FRANCE_IOI/LEVEL_01/Chapter_01/03_plan_montagne/result.png"
         alt="DEMO"
         style="width:50%">
 </div>
