@@ -7,5 +7,6 @@
     EXERCICE  : 01
     TITLE     : PUNITION
 =============================================== """
+
 for line in range(135):
     print("Je dois respecter le Grand Sorcier.")
