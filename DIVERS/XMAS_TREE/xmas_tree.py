@@ -1,3 +1,10 @@
+""" ======= DESCRIPTION ===========
+    AUTHOR    : Ayckinn
+    COPYRIGHT : ©2022
+    LANGUAGE  : PYTHON
+    TITLE     : XMAS TREE
+=============================== """
+
 from os import system
 
 count = 1
