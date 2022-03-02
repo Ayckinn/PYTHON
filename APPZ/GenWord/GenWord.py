@@ -3,7 +3,7 @@
 
 # ==================================================
 # =                GENWORD - V1.0                  =
-# = Generate all possibles combinaitons for a word =
+# = Generate all possibles combinations for a word =
 # =               ©2020 - Ayckinn                  =
 # ==================================================
 
